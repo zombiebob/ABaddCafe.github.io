@@ -25,7 +25,7 @@ github_username:  ABaddCafe
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
