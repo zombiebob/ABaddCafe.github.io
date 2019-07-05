@@ -1,6 +1,6 @@
 Levon Tarver:
   name             : "Levon Tarver"
-  avatar           : /assets/images/ltarver_profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/ltarver_bio.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >-
     Software Developer and Infrastructure Engineer.
     Former mechanic and high school teacher.
