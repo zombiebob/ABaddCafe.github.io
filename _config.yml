@@ -110,22 +110,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
-# Site Author
-author:
-  name             : "Levon Tarver"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like building things."
-  location         : "United States"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:levon@createthree.com
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/levontarver"
-
 # Site Footer
 footer:
   links:

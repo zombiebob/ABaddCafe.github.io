@@ -1,0 +1,16 @@
+Levon Tarver:
+  name             : "Levon Tarver"
+  avatar           : /assets/images/ltarver_profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : >-
+    Software Developer and Infrastructure Engineer.
+    Former mechanic and high school teacher.
+    Gamer, gearhead, and fan of Japanese language and culture.
+    よろしく!
+  location         : "San Antonio, Texas"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:levon@createthree.com
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/levontarver"
